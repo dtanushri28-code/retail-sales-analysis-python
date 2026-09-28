@@ -110,7 +110,7 @@ The project performs the following analysis:
 
 ## 📁 Project Structure
 
-```text
+text
 retail-sales-analysis-python/
 │
 ├── Retail_Sales_Analysis.ipynb
