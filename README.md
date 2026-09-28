@@ -141,3 +141,9 @@ retail-sales-analysis-python/
 ### Payment Methods
 
 ![Payment Methods](payment_methods.png)
+
+## 📊 Project Visualizations
+
+### Retail Sales Dashboard
+
+![Retail Dashboard](retail_dashboard.png)
