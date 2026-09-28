@@ -116,3 +116,28 @@ retail-sales-analysis-python/
 ├── Retail_Sales_Analysis.ipynb
 ├── retail_sales_data.csv
 └── README.md
+## 📊 Project Visualizations
+
+### Retail Sales Dashboard
+
+![Retail Dashboard](retail_dashboard.png)
+
+### Monthly Sales
+
+![Monthly Sales](monthly_sales.png)
+
+### Category Sales
+
+![Category Sales](category_sales.png)
+
+### Store Sales
+
+![Store Sales](store_sales.png)
+
+### Product Sales
+
+![Product Sales](product_sales.png)
+
+### Payment Methods
+
+![Payment Methods](payment_methods.png)
