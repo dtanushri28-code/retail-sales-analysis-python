@@ -108,14 +108,6 @@ The project performs the following analysis:
 
 ---
 
-## 📁 Project Structure
-
-text
-retail-sales-analysis-python/
-│
-├── Retail_Sales_Analysis.ipynb
-├── retail_sales_data.csv
-└── README.md
 ## 📊 Project Visualizations
 
 ### Retail Sales Dashboard
